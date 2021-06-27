@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/whatsapp-web-clone/static/css/main.ff96f54e.chunk.css",
+    "main.js": "/whatsapp-web-clone/static/js/main.e80f943d.chunk.js",
+    "main.js.map": "/whatsapp-web-clone/static/js/main.e80f943d.chunk.js.map",
+    "runtime-main.js": "/whatsapp-web-clone/static/js/runtime-main.1b469abe.js",
+    "runtime-main.js.map": "/whatsapp-web-clone/static/js/runtime-main.1b469abe.js.map",
+    "static/js/2.8efa628b.chunk.js": "/whatsapp-web-clone/static/js/2.8efa628b.chunk.js",
+    "static/js/2.8efa628b.chunk.js.map": "/whatsapp-web-clone/static/js/2.8efa628b.chunk.js.map",
+    "static/js/3.8b58b23d.chunk.js": "/whatsapp-web-clone/static/js/3.8b58b23d.chunk.js",
+    "static/js/3.8b58b23d.chunk.js.map": "/whatsapp-web-clone/static/js/3.8b58b23d.chunk.js.map",
+    "index.html": "/whatsapp-web-clone/index.html",
+    "static/css/main.ff96f54e.chunk.css.map": "/whatsapp-web-clone/static/css/main.ff96f54e.chunk.css.map",
+    "static/js/2.8efa628b.chunk.js.LICENSE.txt": "/whatsapp-web-clone/static/js/2.8efa628b.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/whatsapp-web-clone/static/media/bg-chat-light.7fff1c4f.png",
+    "static/media/index.css": "/whatsapp-web-clone/static/media/emoji-sprite.d308250d.png",
+    "static/media/intro-connection-dark.aebc29db.jpg": "/whatsapp-web-clone/static/media/intro-connection-dark.aebc29db.jpg",
+    "static/media/intro-connection-light.5690d473.jpg": "/whatsapp-web-clone/static/media/intro-connection-light.5690d473.jpg",
+    "static/media/profile-picture-boy-1.81eb50a9.jpeg": "/whatsapp-web-clone/static/media/profile-picture-boy-1.81eb50a9.jpeg",
+    "static/media/profile-picture-boy-2.1f40d9c2.jpeg": "/whatsapp-web-clone/static/media/profile-picture-boy-2.1f40d9c2.jpeg",
+    "static/media/profile-picture-boy-3.025dcbc9.jpeg": "/whatsapp-web-clone/static/media/profile-picture-boy-3.025dcbc9.jpeg",
+    "static/media/profile-picture-girl-1.57190dd7.jpeg": "/whatsapp-web-clone/static/media/profile-picture-girl-1.57190dd7.jpeg",
+    "static/media/profile-picture-girl-2.0ab9429c.jpeg": "/whatsapp-web-clone/static/media/profile-picture-girl-2.0ab9429c.jpeg",
+    "static/media/profile-picture-girl-3.6f306e62.jpeg": "/whatsapp-web-clone/static/media/profile-picture-girl-3.6f306e62.jpeg",
+    "static/media/profile-picture-girl-4.64d88d46.jpeg": "/whatsapp-web-clone/static/media/profile-picture-girl-4.64d88d46.jpeg",
+    "static/media/women.6bd8dd7b.jpeg": "/whatsapp-web-clone/static/media/women.6bd8dd7b.jpeg",
+    "static/media/women.835fc8a1.png": "/whatsapp-web-clone/static/media/women.835fc8a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b469abe.js",
+    "static/js/2.8efa628b.chunk.js",
+    "static/css/main.ff96f54e.chunk.css",
+    "static/js/main.e80f943d.chunk.js"
+  ]
+}
